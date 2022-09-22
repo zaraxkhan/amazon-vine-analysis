@@ -33,5 +33,4 @@ In this dataset, about 54% of 5 stars came from Vine reviewers and around 47% of
 
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-making sure that it was a verified purchase
+From this quick analysis, it seems that the data does favor that there may be a little bit of bias coming from paid reviewers versus their counterparts. The difference is only 7% between the two groups, however it is enough to make one speculate. In order to counter act this bias, I think it is important to also do the same analysis for 1-star reviews. If many paid reviewers are not giving out many one star reviews compared to the unpaid reviewers than it would be safer to assume that there may be bias in the reviewing dataset and the program in general. 
