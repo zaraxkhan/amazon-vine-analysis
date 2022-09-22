@@ -10,16 +10,27 @@ Next, I will determine if there is any bias towards reviews that were written as
 
 ## Results
 - How many Vine reviews and non-Vine reviews were there?
+
 There were 136 Vine reviews and 18019 non-Vine reviews for the furniture review dataset.
 #### Paid Reviews vs Unpaid Reviews
 ![Screen Shot 2022-09-21 at 7 30 18 PM](https://user-images.githubusercontent.com/105755095/191633161-e0814bc7-2247-40b6-ad48-ba4024acea1f.png)
 ![Screen Shot 2022-09-21 at 7 30 32 PM](https://user-images.githubusercontent.com/105755095/191633165-709c459b-c0c6-4b1b-be20-12075d279de6.png)
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 From the five star reviews, there were 74 reviews that were paid and 8,482 reviews that were unpaid, or non_vine reviews.
 #### Paid 5-Star Reviews vs Unpaid 5-Star Reviews
+![Screen Shot 2022-09-21 at 7 32 37 PM](https://user-images.githubusercontent.com/105755095/191633256-0e2b4bfb-1120-44d7-a79b-1e6968437413.png)
+![Screen Shot 2022-09-21 at 7 32 44 PM](https://user-images.githubusercontent.com/105755095/191633266-2ee40dcc-9390-420c-9ce1-92840fec976d.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+In this dataset, about 54% of 5 stars came from Vine reviewers and around 47% of the 5 star reviews were from unpaid buyers.
+
+#### Paid 5-Star Review Percentage vs. Unpaid 5-Star Review Percentage
+![Screen Shot 2022-09-21 at 7 34 04 PM](https://user-images.githubusercontent.com/105755095/191633474-0a7aa214-e801-4c3e-9334-1df2554adebd.png)
+![Screen Shot 2022-09-21 at 7 34 12 PM](https://user-images.githubusercontent.com/105755095/191633486-a5e64a44-8498-4ee8-b4be-8ba8dc9bc0c7.png)
+
 
 ## Summary
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
